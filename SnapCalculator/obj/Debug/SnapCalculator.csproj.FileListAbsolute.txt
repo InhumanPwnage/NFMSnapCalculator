@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\bin\Debug\SnapCalculator.exe.config
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\bin\Debug\SnapCalculator.exe
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\bin\Debug\SnapCalculator.pdb
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.Form1.resources
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.Properties.Resources.resources
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.csproj.GenerateResource.Cache
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.exe
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.pdb
+C:\Users\julia\source\repos\SnapCalculator\SnapCalculator\obj\Debug\SnapCalculator.csprojAssemblyReference.cache
